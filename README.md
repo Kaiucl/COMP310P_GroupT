@@ -1,7 +1,3 @@
 # COMP310P_GroupT
 
-# I am Kai, a chemical engineering student.
-
-Events: website about a stadium: concert, opera, sport.
-Hello my name is Roshna
-hi its karishma
+The launch file in this project is index.php in the controller folder not the one in the php folder, please don't launch using that. 
